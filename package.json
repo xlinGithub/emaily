@@ -8,7 +8,11 @@
     "npm": "6.14.4"
   },
   "scripts": {
+<<<<<<< HEAD
     "start": "node index.js",
+=======
+    "start": "node index.js", 
+>>>>>>> 05eb1a2428bb872b962eb33ea9a60ff06698e407
     "dev": "nodemon index.js"
   },
   "repository": {
